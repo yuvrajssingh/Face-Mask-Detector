@@ -1,0 +1,3 @@
+cd /Users/yuvrajsingh/Documents/Face\ Mask\ Detector
+source venv/bin/activate
+python detect_mask_video.py
